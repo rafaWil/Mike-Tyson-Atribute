@@ -34,6 +34,7 @@ header .menuTitle, .menuTopics {
     transition: color 0.7s, font-size 0.5s ease;
 }
 
+/* Style in hover when coursor move in a */
 .menuTopics a:hover {
     color: rgb(189, 13, 13);
     font-size: 20px;
