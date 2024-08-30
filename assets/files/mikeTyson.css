@@ -3,3 +3,8 @@
     box-sizing: border-box;
     margin: 0;
 }
+
+/* Transform every text in page in verdana */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
