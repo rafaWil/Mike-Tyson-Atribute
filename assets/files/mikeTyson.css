@@ -24,3 +24,10 @@ header .menuTitle, .menuTopics {
     color: #ffffff;
     margin: 5px;
 }
+
+.menuTopics a {
+    color: #ffffff;
+    font-size: 15px;
+    margin: 10px;
+    text-decoration: none;
+}
