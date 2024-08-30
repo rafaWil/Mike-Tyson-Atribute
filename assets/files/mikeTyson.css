@@ -51,3 +51,9 @@ header .menuTitle, .menuTopics {
     color: rgb(189, 13, 13);
     transition: color 0.7s, font-size 0.5s ease;
 }
+
+/* Line white below header */
+.belowHeader {
+    height: 1px;
+    background-color: #ffffff;
+}
