@@ -57,3 +57,8 @@ header .menuTitle, .menuTopics {
     height: 1px;
     background-color: #ffffff;
 }
+
+.mainImage img {
+    width: 1300px;
+    height: auto;
+}
