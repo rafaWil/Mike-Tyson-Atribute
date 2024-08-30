@@ -1,0 +1,5 @@
+/* Removed sizes in page */
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
