@@ -39,3 +39,9 @@ header .menuTitle, .menuTopics {
     color: rgb(189, 13, 13);
     font-size: 20px;
 }
+
+/* Style in title with name Mike Tyson */
+.menuTitle {
+    font-size: 20px;
+    text-transform: uppercase;
+}
