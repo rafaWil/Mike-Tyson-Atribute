@@ -8,3 +8,10 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+
+header {
+    color: #ffffff;
+    background-color: #000000;
+    display: flex;
+}
