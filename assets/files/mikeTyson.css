@@ -25,9 +25,16 @@ header .menuTitle, .menuTopics {
     margin: 5px;
 }
 
+/* Style in menu topics */
 .menuTopics a {
     color: #ffffff;
     font-size: 15px;
     margin: 10px;
     text-decoration: none;
+    transition: color 0.7s, font-size 0.5s ease;
+}
+
+.menuTopics a:hover {
+    color: rgb(189, 13, 13);
+    font-size: 20px;
 }
