@@ -19,3 +19,8 @@ header {
     padding: 10px;
     justify-content: space-between;
 }
+
+header .menuTitle, .menuTopics {
+    color: #ffffff;
+    margin: 5px;
+}
