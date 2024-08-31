@@ -99,8 +99,10 @@ header .menuTitle, .menuTopics {
 
 /* Style in every topic */
 .topico {
-    width: 100%;
+    width: 97%;
     height: 50px;
+    background-color: #202020;
+    margin: 10px;
 }
 
 /* Style in topic */
