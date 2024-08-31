@@ -132,31 +132,41 @@ header .menuTitle, .menuTopics {
     color: #a19c9c;
 }
 
+
 /* Style in image face */
 .imageFace {
-  width: 80%;
-  margin-left: 264px;
-  overflow: hidden;
-}
-
-.imageFace img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center;
+    width: 30%; /* ajuste a largura da imagem */
+    float: right; /* adiciona a propriedade float */
+    margin: 20px; /* adiciona uma margem para dar espaço entre a imagem e o texto */
+  }
   
-}
-
-.titlesMike {
+  .imageFace img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  
+  /* Style in titles mike */
+  .titlesMike {
     flex: 1;
     display: flex;
-}
-
-/* Style in texts */
-.mikeTitle {
+    flex-direction: column; /* adiciona a propriedade flex-direction */
+    align-items: flex-start; /* adiciona a propriedade align-items */
+    margin-left: 20px; /* adiciona uma margem para dar espaço entre o texto e a imagem */
+  }
+  
+  .mikeTitle {
     background-color: antiquewhite;
-}
-
-.titlesMike i {
+    width: 100%; /* ajuste a largura do título */
+    padding: 20px; /* adiciona uma margem interna para o título */
+  }
+  
+  .titlesMike i {
     color: #000000;
-}
+  }
+  
+  .topico {
+    width: 100%; /* ajuste a largura do tópico */
+    padding: 20px; /* adiciona uma margem interna para o tópico */
+  }
