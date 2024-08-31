@@ -4,6 +4,11 @@
     margin: 0;
 }
 
+/* smoothing passage in link */
+html {
+    scroll-behavior: smooth;
+}
+
 /* Transform every text in page in verdana */
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
