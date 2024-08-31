@@ -79,7 +79,7 @@ header .menuTitle, .menuTopics {
 .aboutMike {
     width: 100%;
     height: 400px;
-    background-color: aqua;
+    background-color: #363636;
 }
 
 /* Style in title about mike */
@@ -88,4 +88,6 @@ header .menuTitle, .menuTopics {
     text-transform: uppercase;
     text-align: center;
     padding: 30px;
+    color: #ffffff;
 }
+
