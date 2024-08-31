@@ -111,11 +111,12 @@ header .menuTitle, .menuTopics {
     font-size: 20px;
     margin-left: 10px;
     color: #ffffff;
+    border-bottom: 2px solid #363636;
 }
 
 .topico  p {
     font-size: 18px;
     margin-left: 30px;
-    color: #ffffff;
+    color: #a19c9c;
 }
 
