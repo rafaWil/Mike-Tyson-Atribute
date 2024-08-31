@@ -81,3 +81,11 @@ header .menuTitle, .menuTopics {
     height: 400px;
     background-color: aqua;
 }
+
+/* Style in title about mike */
+.titleAbout {
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 30px;
+}
