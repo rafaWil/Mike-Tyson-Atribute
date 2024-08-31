@@ -107,10 +107,12 @@ header .menuTitle, .menuTopics {
 .tituloTopico {
     font-size: 20px;
     margin-left: 10px;
+    color: #ffffff;
 }
 
 .topico  p {
     font-size: 18px;
     margin-left: 30px;
+    color: #ffffff;
 }
 
