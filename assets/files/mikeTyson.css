@@ -89,6 +89,7 @@ header .menuTitle, .menuTopics {
     text-align: center;
     padding: 30px;
     color: #ffffff;
+    transition: color 0.7s ease;
 }
 
 .titleAbout:hover {
@@ -104,6 +105,11 @@ header .menuTitle, .menuTopics {
     background-color: #202020;
     border-radius: 10px;
     margin: 10px;
+}
+
+/* Style when hover */
+.topico:hover {
+    font-size: 60px;
 }
 
 /* Style in topic */
