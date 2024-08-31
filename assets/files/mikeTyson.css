@@ -147,3 +147,16 @@ header .menuTitle, .menuTopics {
   
 }
 
+.titlesMike {
+    flex: 1;
+    display: flex;
+}
+
+/* Style in texts */
+.mikeTitle {
+    background-color: antiquewhite;
+}
+
+.titlesMike i {
+    color: #000000;
+}
