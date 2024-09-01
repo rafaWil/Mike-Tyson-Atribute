@@ -226,3 +226,12 @@ header .menuTitle, .menuTopics {
     transition: color 0.9s, font-size 0.4s ease;
 }
 
+/* Style in records part in page */
+.recordsMike {
+    background-image: url('');
+    background-size: cover; /* Isso ajusta a imagem para cobrir toda a div */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Impede que a imagem se repita */
+    width: 100%; /* Ajuste a largura conforme necessário */
+    height: 98vh; /* Ajuste a altura conforme necessário */
+}
