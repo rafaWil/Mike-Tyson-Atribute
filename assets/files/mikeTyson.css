@@ -182,4 +182,8 @@ header .menuTitle, .menuTopics {
 
 .titlesincarrer {
     color: #ffffff;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 22px;
+    border-bottom: 1px solid #363636;
 }
