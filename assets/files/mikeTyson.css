@@ -152,3 +152,12 @@ header .menuTitle, .menuTopics {
     object-position: center;
 }
 
+.MikeTitles {
+    background-image: url('../images/face_mike.jpg');
+    background-size: cover; /* Isso ajusta a imagem para cobrir toda a div */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Impede que a imagem se repita */
+    width: 100%; /* Ajuste a largura conforme necessário */
+    height: 98vh; /* Ajuste a altura conforme necessário */
+}
+
