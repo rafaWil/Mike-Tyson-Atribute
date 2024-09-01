@@ -204,3 +204,16 @@ header .menuTitle, .menuTopics {
     margin-right: 5px;
 }
 
+.titlesincareer:hover {
+    color: #fbff08;
+    font-size: 25px;
+}
+
+/* Style when coursor in div */
+.titlesincareer p:hover {
+    color: #000000;
+    background-color: #ffffff;
+    font-size: 25px;
+    height: auto;
+}
+
