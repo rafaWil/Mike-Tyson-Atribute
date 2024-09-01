@@ -197,6 +197,9 @@ header .menuTitle, .menuTopics {
     height: 30px;
     border-radius: 5px;
     padding-left: 10px;
+    font-size: 20px; /* Diminuí o tamanho da fonte para 18px */
+    line-height: 1.5; /* Adicionei line-height para melhorar a legibilidade */
+    text-align: left; /* Alinhei o texto à esquerda */
 }
 
 /* Only margin in icon */
