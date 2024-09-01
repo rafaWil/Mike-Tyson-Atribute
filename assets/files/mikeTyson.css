@@ -259,3 +259,7 @@ footer a:hover {
     transition: color 0.7s, font-size 0.5s ease;
     font-size: 17px;
 }
+
+.recordsMike {
+    background-image: url('../images/records_mike.jpg');
+}
