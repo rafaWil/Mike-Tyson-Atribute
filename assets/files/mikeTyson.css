@@ -216,5 +216,6 @@ header .menuTitle, .menuTopics {
     font-size: 25px;
     height: auto;
     transition: color 0.9s, font-size 0.4s ease;
+    display: inline-block;
 }
 
