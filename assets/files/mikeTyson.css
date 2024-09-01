@@ -240,7 +240,8 @@ header .menuTitle, .menuTopics {
 /* Style in footer */
 footer {
     color: #ffffff;
-    border-top: 1px solid #a19c9c;
+    background-color: #313030;
+    border-top: 1px solid #5e5d5d;
     padding: 10px;
     font-size: 15px;
     text-align: center;
