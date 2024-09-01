@@ -50,6 +50,7 @@ header .menuTitle, .menuTopics {
 .menuTitle {
     font-size: 20px;
     text-transform: uppercase;
+    padding-left: 10px;
 }
 
 /* Styl when coursor go over in this name */
