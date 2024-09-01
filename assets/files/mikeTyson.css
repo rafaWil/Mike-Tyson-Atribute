@@ -152,6 +152,7 @@ header .menuTitle, .menuTopics {
     object-position: center;
 }
 
+/* style in mike titles */
 .MikeTitles {
     background-image: url('../images/face_mike.jpg');
     background-size: cover; /* Isso ajusta a imagem para cobrir toda a div */
