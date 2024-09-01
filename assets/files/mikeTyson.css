@@ -112,11 +112,11 @@ header .menuTitle, .menuTopics {
 .topico {
     width: 97%;
     height: 69px;
-    background-color: #202020;
+    background-color: #242424;
     border-radius: 10px;
     margin: 10px;
     transition: color 0.7s ease;
-    border: 1px solid #000000;
+    border: 1px solid #bebbbb;
 }
 
 .topico:hover {
