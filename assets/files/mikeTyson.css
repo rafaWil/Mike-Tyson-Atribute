@@ -268,3 +268,11 @@ footer a:hover {
     background-position: center;
     color: #ffffff;
 }
+
+/* Style title in topic records */
+.recordTitle {
+    font-size: 30px;
+    text-transform: uppercase;
+    padding: 45px;
+    transition: color 0.7s ease;
+}
