@@ -192,11 +192,11 @@ header .menuTitle, .menuTopics {
 /* Style in text */ 
 .titlesincareer p {
     color: #ffffff;
-    background-color: #363636;
+    background-color: #313030;
     width: 50%;
     height: 30px;
     border-radius: 5px;
-
+    padding-left: 10px;
 }
 
 /* Only margin in icon */
