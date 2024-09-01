@@ -116,6 +116,7 @@ header .menuTitle, .menuTopics {
     border-radius: 10px;
     margin: 10px;
     transition: color 0.7s ease;
+    border: 1px solid #000000;
 }
 
 .topico:hover {
