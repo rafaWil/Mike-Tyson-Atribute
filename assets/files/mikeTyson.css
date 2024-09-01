@@ -240,7 +240,7 @@ header .menuTitle, .menuTopics {
 /* Style in footer */
 footer {
     color: #ffffff;
-    background-color: #313030;
+    background-color: #1b1919;
     border-top: 1px solid #5e5d5d;
     padding: 10px;
     font-size: 15px;
@@ -260,6 +260,8 @@ footer a:hover {
     font-size: 17px;
 }
 
+/* Styles in records topic */
 .recordsMike {
     background-image: url('../images/records_mike.jpg');
+
 }
