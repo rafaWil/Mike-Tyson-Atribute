@@ -266,4 +266,5 @@ footer a:hover {
     filter: grayscale(100%);
     background-size: cover;
     background-position: center;
+    color: #ffffff;
 }
