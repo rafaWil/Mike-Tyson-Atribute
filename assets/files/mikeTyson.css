@@ -184,7 +184,7 @@ header .menuTitle, .menuTopics {
 .titlesincareer {
     color: #ffffff;
     margin-left: 50px;
-    margin-top: 20px;
+    margin-top: 25px;
     font-size: 22px;
     display: flex;
 }
@@ -193,7 +193,7 @@ header .menuTitle, .menuTopics {
 .titlesincareer p {
     color: #ffffff;
     background-color: #313030;
-    width: 50%;
+    width: 48%;
     height: 30px;
     border-radius: 5px;
     padding-left: 10px;
