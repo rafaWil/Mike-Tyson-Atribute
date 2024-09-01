@@ -199,3 +199,8 @@ header .menuTitle, .menuTopics {
     text-align: center;
 }
 
+/* Only margin in icon */
+.beltSymbol {
+    margin-right: 10px;
+}
+
