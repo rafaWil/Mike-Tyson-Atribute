@@ -103,6 +103,9 @@ header .menuTitle, .menuTopics {
     font-size: 35px;
 }
 
+.listaTopicos {
+    margin-left: 20px;
+}
 
 /* Styles in topics about */
 .topico {
