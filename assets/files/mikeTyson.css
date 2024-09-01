@@ -186,6 +186,7 @@ header .menuTitle, .menuTopics {
     margin-left: 50px;
     margin-top: 20px;
     font-size: 22px;
+    display: flex;
 }
 
 /* Style in text */ 
