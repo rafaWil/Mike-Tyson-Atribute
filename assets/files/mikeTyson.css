@@ -162,3 +162,13 @@ header .menuTitle, .menuTopics {
     height: 98vh; /* Ajuste a altura conforme necessário */
 }
 
+/* Style in title */
+.titleinMiketitles {
+    color: #ffffff;
+    padding: 30px;
+    margin-left: 50px;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 25px;
+    transition: color 0.7s ease;
+}
