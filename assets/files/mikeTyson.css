@@ -263,7 +263,6 @@ footer a:hover {
 /* Styles in records topic */
 .recordsMike {
     background-image: url('../images/records_mike.jpg');
-    filter: grayscale(100%);
     background-size: cover;
     background-position: center;
     color: #ffffff;
