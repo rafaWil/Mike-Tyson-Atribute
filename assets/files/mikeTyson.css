@@ -65,6 +65,11 @@ header .menuTitle, .menuTopics {
     background-color: #ffffff;
 }
 
+.belowHeader-parallel {
+    height: 14px;
+    background-color: #727272;
+}
+
 /* Style in space about main image */
 .mainImage {
     position: relative;
