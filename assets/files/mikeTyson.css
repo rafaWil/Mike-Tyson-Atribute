@@ -317,11 +317,6 @@ footer a:hover {
     transition: color 0.7s, font-size 0.5s ease;
 }
 
-.titleRecordeOne p:hover {
-    font-size: 21px;
-    transition: color 0.7s, font-size 0.5s ease;
-}
-
 /* Style in second record */
 .titleRecordeSecond {
     font-size: 20px;
