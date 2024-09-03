@@ -328,4 +328,15 @@ footer a:hover {
     padding: 11px;
     text-align: center;
     float: right;
+} 
+
+/* Style in second title */
+.TitleRsecond {
+    margin-bottom: 12px;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: #1a1a1a;
+    height: 100%;
+    padding: 5px;
+    border-radius: 10px;
 }
