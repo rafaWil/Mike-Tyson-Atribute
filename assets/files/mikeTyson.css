@@ -287,3 +287,15 @@ footer a:hover {
     color: rgb(245, 9, 9);
     transition: color 0.7s, font-size 0.5s ease;
 }
+
+/* Style in div about topic one record */
+.titleRecordeOne {
+    font-size: 20px;
+    text-align: left;
+    margin-bottom: 10px;
+    margin-left: 35px;
+    width: 35%;
+    background-color: #5e5c5c;
+    border-radius: 5px;
+    padding: 10px;
+}
